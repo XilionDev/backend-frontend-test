@@ -1,8 +1,5 @@
-# backend-frontend-test
+# Backend frontend test
 Backend and frontend technical test
-
-# Title
-You are developing a Library Analytics Platform that integrates two databases: one for Books and one for Authors. The system should include advanced backend operations, SQL function development, and a React-based frontend for interacting with the system.
 
 ## Backend requirements (TypeScript)
 
