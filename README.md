@@ -71,7 +71,7 @@ Backend and frontend technical test
 - Add a book called "The way of kings" by "Brandon Sanderson" with a publication year of 2010.
 
 ### Submission
-- Create a private GitHub repository with the code using this template and invite the user `@Noel-S` and `@MartinChavez-Ikigo` as a collaborator.
+- Create a private GitHub repository with the code using this template and invite the user `@Noel-S`, `@Joel-Lizardi` and `@MartinChavez-Ikigo` as a collaborator.
 - Include a README file with instructions on how to run the backend and frontend.
 - Deploy the backend and frontend to a cloud provider (e.g., Heroku, Vercel, Netlify).
 - Create a release in the github repository with the deployed URLs in the description and the tag `1.0.0`.
